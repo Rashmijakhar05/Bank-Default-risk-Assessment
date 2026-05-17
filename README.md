@@ -28,7 +28,7 @@ Model evaluation using accuracy, confusion matrix, etc.
 
 ** #How to Run**
 
-Clone the repo: git clone https://github.com/your-username/Intelligent-Risk-Analytics.git cd Intelligent-Risk-Analytics
+Clone the repo: git clone https://github.com/Rashmijakhar05/Intelligent-Risk-Analytics.git cd Intelligent-Risk-Analytics
 
 Install dependencies: pip install -r requirements.txt
 
